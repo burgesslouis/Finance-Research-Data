@@ -9,6 +9,6 @@ Datasets include various financial economic indicators, each with a source, coll
 ## Usage
 The data is open for academic research, policy analysis, or market assessment. Please include a citation, which will depend on the dataset. A standardised citation is provided below.
 
-Burgess, L. (2024) *Finance Research Data*. Available at: https://github.com/burgesslouis/Finance-Research-Data.
+Burgess, L. M. D. (2024) *Finance Research Data*. Available at: https://github.com/burgesslouis/Finance-Research-Data.
 
 
